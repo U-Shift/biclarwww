@@ -10,7 +10,7 @@ For methods and computation scripts, please refer to [biclaR repository](https:/
 
 *   **Development**: Instituto Superior Técnico - Universidade de Lisboa - Filipe Moura, Rosa Félix.
 
-*   **Development assistance**: Institute for Transport Studies - University of Leeds - Robin Lovelace.
+*   **Development support**: Institute for Transport Studies - University of Leeds - Robin Lovelace.
 
 Please cite as:
 > Félix, R., Lovelace, R., Moura, F. (2022). **biclaR: Ferramenta de apoio ao planeamento da rede ciclável na área metropolitana de Lisboa**. CERIS - Instituto Superior Técnico e Transportes Metropolitanos de Lisboa. [biclar.tmlmobilidade.pt](https://biclar.tmlmobilidade.pt). Lisboa, Dezembro.
